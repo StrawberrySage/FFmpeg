@@ -1,0 +1,1 @@
+./configure --disable-ffmpeg --disable-ffplay --disable-everything --disable-network --disable-autodetect --enable-small --disable-x86asm --enable-decoder=vorbis,pcm_s16le --enable-encoder=vorbis,pcm_s16le --enable-demuxer=ogg,pcm_s16le,wav --enable-muxer=ogg,pcm_s16le,wav --enable-protocol=file,pipe,data
